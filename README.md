@@ -1,0 +1,1 @@
+This will be an introduction to making a website and using git using the odin project.
